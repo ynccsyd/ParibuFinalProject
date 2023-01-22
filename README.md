@@ -9,4 +9,23 @@
  
 ## 📝 $\textcolor{gray}{Let's\ start\}$ 
 
+* After compile and deploy your contract 
+
+ <p align="center">
+    <img src="https://user-images.githubusercontent.com/109158340/213932987-4ff2536a-fc73-4e7a-ac20-6acd5d96636b.png">
+  
+* Add 4000000000000000000 Wei
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/109158340/213933221-671734fa-fb5f-4a91-98f6-1c32f94dc6a7.png">
+* And you'r ready to get and add energy your trade
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/109158340/213933474-6e7f0dd7-1862-41ed-a21f-77d018d8c54e.png">
+ 
+
+
+
+
+
+
+
 
